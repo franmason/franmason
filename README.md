@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <h3 align="left"> About Me 🙋‍♂️ </h3>
-<p align="left"><br><br>-  'Born in Sao Paulo, currently living in in a magic island called Florianopolis 🏝️ <br>- I have been immersed in technology since my childhood and I am currently studying at Trybe with the goal of becoming a full-stack developer 👩‍💻<br>- In my free time, I enjoy playing video games 💻🕹️ </p>
+<p align="left"><br><br>-  'Born in Sao Paulo, currently living in a magic island called Florianopolis 🏝️ <br>- I have been immersed in technology since my childhood and I am currently studying at Trybe with the goal of becoming a full-stack developer 👩‍💻<br>- In my free time, I enjoy playing video games 💻🕹️ </p>
 <br>
 <br>
 <div  align="center" style="margin-bottom:100px">
