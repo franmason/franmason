@@ -10,7 +10,7 @@
 - Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://i.pinimg.com/originals/ce/8a/40/ce8a40d6a5d08978f698dc26c41bf756.gif" width="400" alt="coding gif" />
 </p>
 
 ## Minhas skills
