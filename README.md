@@ -26,11 +26,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## Estatísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=franmason&theme=radical&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats-rce2pwsuz-franciscos-projects-656f5002.vercel.app/api/top-langs/?username=franmason&show_icons=true&theme=radical&layout=compact)
-
 <!-- SNAKE_START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franmason/franmason/output/github-contribution-grid-snake-dark.svg" />
