@@ -1,17 +1,13 @@
-<h1 align="center">Hey there, eu sou o Francisco 👋</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8F0D87&center=true&vCenter=true&width=600&lines=Francisco+Mason;IT+%2F+Automa%C3%A7%C3%A3o+%2F+Infraestrutura;Construindo+agentes+de+IA+com+n8n;Florianopolis+%F0%9F%8F%9D%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8F0D87&center=true&vCenter=true&width=600&lines=Hey+there%2C+eu+sou+o+Francisco+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </p>
 
 ### Sobre mim 🙋‍♂️
 
-- Trabalho com automação, integração de sistemas e infraestrutura de TI
+- Born in Sao Paulo, currently living in a magic island called Florianopolis 🏝️
 - Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- Gosto de jogos, cultura de rua (pixo/grafite de SP) e anime estilo xianxia
-- Focado em virar Gerente de Infraestrutura nos próximos meses 🚀
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
