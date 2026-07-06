@@ -4,14 +4,14 @@
   </a>
 </p>
 
+<img align="right" width="250" src="https://i.pinimg.com/originals/ce/8a/40/ce8a40d6a5d08978f698dc26c41bf756.gif" alt="coding gif" />
+
 ### Sobre mim 🙋‍♂️
 
 - Born in Sao Paulo, currently living in a magic island called Florianopolis 🏝️
 - Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ce/8a/40/ce8a40d6a5d08978f698dc26c41bf756.gif" width="400" alt="coding gif" />
-</p>
+<br clear="both">
 
 ## Minhas skills
 
