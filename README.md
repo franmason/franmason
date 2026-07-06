@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<img align="right" width="250" src="https://i.pinimg.com/originals/ce/8a/40/ce8a40d6a5d08978f698dc26c41bf756.gif" alt="coding gif" />
+<img align="right" width="250" src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="coding gif" />
 
 ### Sobre mim 🙋‍♂️
 
